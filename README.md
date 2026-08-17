@@ -2,7 +2,12 @@
 
 Esta versión final tiene un especial enfoque en la experiencia hacia el cuidador/familiar, adicionalmente en el reposotorio se enuentran las experiencias hacia los profesionales y el niño:
 
+# Solución Principipal
+
 - **Paciente/familia:** `ruta-hema-referencia/mi-ruta-hema/`
+
+# Complementarias 
+
 - **Profesional:** `ruta-hema-referencia/profesional/`
 - **Niño:** `leos-adventure-2/dist/`
 
