@@ -1,0 +1,38 @@
+[
+  {
+    "id": "antes",
+    "icon": "🎒",
+    "title": "Antes de mi tratamiento",
+    "duration": "2–4 min",
+    "description": "Una guía para conocer el lugar, al equipo y expresar cómo me siento.",
+    "objective": "Preparación y seguridad emocional",
+    "file": "media/videos/antes-del-tratamiento.mp4",
+    "mimeType": "video/mp4",
+    "poster": "",
+    "enabled": true
+  },
+  {
+    "id": "durante",
+    "icon": "🏥",
+    "title": "Durante mi visita",
+    "duration": "3–5 min",
+    "description": "Explica con lenguaje sencillo quién acompaña y qué puede preguntar el niño.",
+    "objective": "Acompañamiento y comunicación",
+    "file": "media/videos/durante-la-visita.mp4",
+    "mimeType": "video/mp4",
+    "poster": "",
+    "enabled": true
+  },
+  {
+    "id": "despues",
+    "icon": "🏠",
+    "title": "Después del tratamiento",
+    "duration": "2–4 min",
+    "description": "Ayuda a reconocer emociones y conversar con el adulto responsable después de la atención.",
+    "objective": "Expresión emocional",
+    "file": "media/videos/despues-del-tratamiento.mp4",
+    "mimeType": "video/mp4",
+    "poster": "",
+    "enabled": true
+  }
+]
