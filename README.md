@@ -1,6 +1,6 @@
 # MI RUTA HEMA — Pasaporte de continuidad
 
-Esta versión final tiene un especial enfoque en la experiencia hacia el cuidador/familiar, adicionalmente en el reposotorio se encuentran las experiencias hacia los profesionales y el niño:
+Esta versión final tiene un enfoque especial en la experiencia hacia el cuidador/familiar, adicionalmente en el reposotorio se encuentran las experiencias hacia los profesionales y el niño:
 
 # Solución Principipal
 
